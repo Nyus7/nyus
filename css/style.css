@@ -2,7 +2,7 @@
 
 :root {
     --text-col: #fff;
-    --text-col-hov: #ff0000;
+    --text-col-hov: #000000;
 }
 *, body {
     margin: 0;
@@ -23,7 +23,7 @@ body {
 .card-main {
     width: 200px;
     height: 300px;
-    background: rgba(87, 7, 214, 0.3);
+    background: rgba(0, 0, 0, 0.3);
     border-radius: 6px;
     text-align: center;
     overflow-y: scroll;
